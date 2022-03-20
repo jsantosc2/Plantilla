@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Angry</folder>
+	<filename>Angry 24.jpg</filename>
+	<path>C:\Users\Juan\Desktop\TFG\Entrenamiento\Emociones\train\Angry\Angry 24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>309</width>
+		<height>163</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Angry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>25</ymin>
+			<xmax>138</xmax>
+			<ymax>79</ymax>
+		</bndbox>
+	</object>
+</annotation>

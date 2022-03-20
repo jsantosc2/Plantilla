@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Fear</folder>
+	<filename>Fear 3.jpg</filename>
+	<path>C:\Users\Juan\Desktop\TFG\Entrenamiento\Emociones\train\Fear\Fear 3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>296</width>
+		<height>170</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>39</ymin>
+			<xmax>169</xmax>
+			<ymax>86</ymax>
+		</bndbox>
+	</object>
+</annotation>

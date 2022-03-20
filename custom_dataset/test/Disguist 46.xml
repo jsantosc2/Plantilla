@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Disguist</folder>
+	<filename>Disguist 46.jpg</filename>
+	<path>C:\Users\Juan\Desktop\TFG\Entrenamiento\Emociones\train\Disguist\Disguist 46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>213</width>
+		<height>236</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disguist</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>81</ymin>
+			<xmax>152</xmax>
+			<ymax>185</ymax>
+		</bndbox>
+	</object>
+</annotation>

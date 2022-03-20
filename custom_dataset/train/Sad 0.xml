@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Sad 0.jpg</filename>
+	<path>C:\Users\jsantos\Desktop\Yolo\train\Sad 0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>262</width>
+		<height>192</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>40</ymin>
+			<xmax>202</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>

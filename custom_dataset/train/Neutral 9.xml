@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Neutral</folder>
+	<filename>Neutral 9.jpg</filename>
+	<path>C:\Users\Juan\Desktop\TFG\Entrenamiento\Emociones\train\Neutral\Neutral 9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Neutral</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>76</ymin>
+			<xmax>149</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+</annotation>

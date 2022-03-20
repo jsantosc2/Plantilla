@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Happy 49.jpg</filename>
+	<path>C:\Users\jsantos\Desktop\Yolo\train\Happy 49.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>317</width>
+		<height>159</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>169</xmin>
+			<ymin>11</ymin>
+			<xmax>216</xmax>
+			<ymax>51</ymax>
+		</bndbox>
+	</object>
+</annotation>
